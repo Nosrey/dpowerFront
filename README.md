@@ -39,8 +39,11 @@ Acá los usuarios podrán ver cada producto en detalle y agregarlos a su carrito
 Una vez terminada la búsqueda de productos deseados, se podrá ir al carrito donde podrán ver todos los productos que desean comprar para finalmente realizar la transaccion
 ![image](https://user-images.githubusercontent.com/106562225/203881789-037137d9-f5d7-4409-8930-6069043eb871.png)
 
+
 ¡Allí finalmente ingresas los datos de pago y la transacción estará lista!
+
 ![image](https://user-images.githubusercontent.com/106562225/203881946-5feb04e1-bfe9-4d66-9d50-b34847253932.png)
+
 
 ¡Gracias por llegar hasta acá! Si tienes alguna idea o sugerencia para el proyecto o deseas contactarme para más información o trabajar en alguna propuesta, te dejo mi correo para que podamos ponernos en contacto
 
