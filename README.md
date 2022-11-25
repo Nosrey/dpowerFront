@@ -37,6 +37,7 @@ Acá los usuarios podrán ver cada producto en detalle y agregarlos a su carrito
  > En el *Marketplace* el usuario podrá realizar filtrados de productos, cambiar el orden y buscar por palabras claves para encontrar exactamente lo que busca
 
 Una vez terminada la búsqueda de productos deseados, se podrá ir al carrito donde podrán ver todos los productos que desean comprar para finalmente realizar la transaccion
+
 ![image](https://user-images.githubusercontent.com/106562225/203881789-037137d9-f5d7-4409-8930-6069043eb871.png)
 
 
