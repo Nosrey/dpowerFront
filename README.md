@@ -3,6 +3,8 @@
 
 [![DPOWER APP VIDE](https://img.youtube.com/vi/qzWMiKoslQw/0.jpg)](https://www.youtube.com/watch?v=qzWMiKoslQw)
 
+Video completo de la aplicación: https://www.youtube.com/watch?v=qzWMiKoslQw
+
 ### *¿Qué es DPOWER?*
 
 ![posts-main](https://user-images.githubusercontent.com/106562225/203879696-104aa2f2-5947-4758-a47c-e52ae5750076.png)
